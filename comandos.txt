@@ -4,6 +4,7 @@ Conhecendo o Git
 
 -git init
 -git status
+-git branch -M main
 -git add <file>
 -git rm —catch <file>
 -git restore <file>
@@ -12,3 +13,5 @@ Conhecendo o Git
 -git checkout <id>
 -git checkout <id> —<file>
 -git restore —staged <file>
+-git remote add origin <url>
+-git push -u origin main
