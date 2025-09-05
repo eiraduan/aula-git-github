@@ -1,0 +1,14 @@
+Conhecendo o Git
+-git config --global user.name "<name>"
+-git config --global user.email <e-mail>
+
+-git init
+-git status
+-git add <file>
+-git rm —catch <file>
+-git restore <file>
+-git commit -m “message”
+-git log
+-git checkout <id>
+-git checkout <id> —<file>
+-git restore —staged <file>
